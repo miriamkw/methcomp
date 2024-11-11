@@ -13,3 +13,4 @@ methcomp/tests/baseline/
 .vscode/
 .DS_Store
 .mypy_cache
+ methcomp.egg-info/*
