@@ -1,1 +1,1 @@
-recursive-include methcomp/static *
+include methcomp/static/*
